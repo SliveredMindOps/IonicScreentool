@@ -1,10 +1,10 @@
 {
 	"pages" : {
 		"android": [
-			"http://localhost:8100/?ionicplatform=android"
+			"http://google.com"
 		],
 		"ios": [
-			"http://localhost:8100/?ionicplatform=ios"
+			"http://google.com"
 		]
 	},
 	"resolutions" : {
@@ -34,11 +34,11 @@
 	"hotkeys" : [
 		{
 			"identifier" : "android",
-			"rawcode" : 65480
+			"rawcode" : 188
 		},
 		{
 			"identifier" : "ios",
-			"rawcode" : 65481
+			"rawcode" : 190
 		}
 	]
 }
