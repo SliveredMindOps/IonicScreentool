@@ -1,0 +1,16 @@
+{
+  "name": "screentool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "iohook": "^0.6.1",
+    "puppeteer": "^2.0.0"
+  }
+}

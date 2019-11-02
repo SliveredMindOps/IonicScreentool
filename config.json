@@ -1,0 +1,44 @@
+{
+	"pages" : {
+		"android": [
+			"http://localhost:8100/?ionicplatform=android"
+		],
+		"ios": [
+			"http://localhost:8100/?ionicplatform=ios"
+		]
+	},
+	"resolutions" : {
+		"android" : [
+			{
+				"name" : "androidTest",
+				"width" : 1242,
+				"height" : 2688,
+				"dpi" : 3
+			}
+		],
+		"ios" : [
+			{
+				"name" : "iPhone11 6.5inch",
+				"width" : 414,
+				"height" : 896,
+				"dpi" : 3
+			},
+			{
+				"name" : "iPhone6 4.7inch",
+				"width" : 375,
+				"height" : 667,
+				"dpi" : 2
+			}
+		]
+	},
+	"hotkeys" : [
+		{
+			"identifier" : "android",
+			"rawcode" : 65480
+		},
+		{
+			"identifier" : "ios",
+			"rawcode" : 65481
+		}
+	]
+}
